@@ -1,6 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Donald Wolfson, but most people call me DJ. I'm currently a fourth year Computer Science major at [UC San Diego](https://ucsd.edu). Currently focusiing on expanding my software passion and knowledge. I enjooy learninig about backend development, primarily focusing on databases, and graph theory. Feel free to learn more about me through my LinkedIn below.
+I am Donald Wolfson, but most people call me DJ. I'm currently a fourth year Computer Science major at [UC San Diego](https://ucsd.edu). Currently working as a Servicenow Application Developer for SerenityEHS.
 
 [![Linkedin Badge](https://img.shields.io/badge/-DonaldWolfson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donald-wolfson/)](https://www.linkedin.com/in/donald-wolfson/)
 [![Instagram Badge](https://img.shields.io/badge/-ohdawneee-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ohdawneee/)](https://www.instagram.com/ohdawneee/)
