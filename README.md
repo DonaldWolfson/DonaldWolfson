@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello! 
 
 I am Donald Wolfson, but most people call me DJ. I'm currently a fourth year Computer Science major at [UC San Diego](https://ucsd.edu). Currently working as a Servicenow Application Developer for SerenityEHS.
 
