@@ -3,8 +3,6 @@
 I am Donald Wolfson, but most people call me DJ. Currently working as a Servicenow Application Developer for SerenityEHS. Graduated as a Computer Science major from UC San Diego.
 
 [![Linkedin Badge](https://img.shields.io/badge/-DonaldWolfson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donald-wolfson/)](https://www.linkedin.com/in/donald-wolfson/)
-[![Instagram Badge](https://img.shields.io/badge/-ohdawneee-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ohdawneee/)](https://www.instagram.com/ohdawneee/)
-[![Gmail Badge](https://img.shields.io/badge/-dwolfson486@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwolfson486@gmail.com)](mailto:dwolfson486@gmail.com)
 
 ## ⚡ Tech
 
